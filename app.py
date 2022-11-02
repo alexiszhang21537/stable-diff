@@ -9,7 +9,7 @@ from PIL import Image
 import re
 import os
 import requests
-print（"hello world"）
+print("hello world")
 
 from share_btn import community_icon_html, loading_icon_html, share_js
 
